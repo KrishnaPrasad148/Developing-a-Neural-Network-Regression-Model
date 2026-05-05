@@ -9,8 +9,7 @@ A neural network regression model consists of an input layer, one or more hidden
 Before training, the data is normalized using techniques like Min-Max Scaling to improve performance. The model is trained using a loss function such as Mean Squared Error (MSE) and an optimizer like Adam. After training, the model is evaluated using test data, and its performance can be visualized using plots like the loss curve.
 
 ## Neural Network Model
-![alt text](Output-img/nn_model.png)
-
+![alt text](Output-img/nn_model_.png)
 ## DESIGN STEPS
 ### STEP 1: 
 
